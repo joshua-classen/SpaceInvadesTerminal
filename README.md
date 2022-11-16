@@ -2,6 +2,8 @@ WARNING:
 THIS IS OLD CODE THAT I WROTE AT THE AGE OF 16
 This code is not clean code. The implementation of the logic is written in the .hpp files. This is not common.
 
+I hosted this years ago on https://bitbucket.org/ckrex/space_invaders/src/master/
+
 Space invaders with ncurses
 
 COMPILE under LINUX
