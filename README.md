@@ -6,6 +6,8 @@ I hosted this years ago on https://bitbucket.org/ckrex/space_invaders/src/master
 
 Space invaders with ncurses
 
+![alt text](https://github.com/joshua-classen/SpaceInvadesTerminal/blob/master/SpaceInvadesTerminal.png?raw=true)
+
 COMPILE under LINUX
 you need a g++ that supports c++11
 You need libncurses5-dev
